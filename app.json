@@ -2,6 +2,7 @@
     "name": "GitGram",
     "description": "GitHub and GitLab Integration for Telegram Bot API",
     "logo": "",
+    "stack": "heroku-20",
     "keywords": [
         "telegram",
         "github"
